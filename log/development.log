@@ -689,3 +689,166 @@ Processing by PagesController#home as HTML
 Completed 200 OK in 20ms (Views: 18.8ms)
 
 
+Started GET "/" for 127.0.0.1 at 2018-01-16 11:15:12 +0545
+Processing by PagesController#home as HTML
+  Rendering pages/home.slim within layouts/application
+  Rendered pages/home.slim within layouts/application (2.7ms)
+Completed 200 OK in 17ms (Views: 15.9ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-16 11:17:04 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (4.5ms)
+Completed 200 OK in 20ms (Views: 18.6ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-16 11:17:13 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (1.7ms)
+Completed 200 OK in 16ms (Views: 14.8ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-16 11:30:16 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (2.5ms)
+Completed 200 OK in 15ms (Views: 14.3ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-16 11:30:46 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (2.0ms)
+Completed 200 OK in 15ms (Views: 14.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-16 21:46:52 +0545
+Processing by PagesController#home as HTML
+  Rendering pages/home.slim within layouts/application
+  Rendered pages/home.slim within layouts/application (22.3ms)
+Completed 200 OK in 397ms (Views: 227.9ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-16 22:11:32 +0545
+Processing by PagesController#home as HTML
+  Rendering pages/home.slim within layouts/application
+  Rendered pages/home.slim within layouts/application (2.5ms)
+Completed 200 OK in 17ms (Views: 15.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-16 22:13:44 +0545
+Processing by PagesController#home as HTML
+  Rendering pages/home.slim within layouts/application
+  Rendered pages/home.slim within layouts/application (3.5ms)
+Completed 200 OK in 22ms (Views: 20.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-16 22:15:56 +0545
+Processing by PagesController#home as HTML
+  Rendering pages/home.slim within layouts/application
+  Rendered pages/home.slim within layouts/application (2.4ms)
+Completed 200 OK in 46ms (Views: 44.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-16 22:17:39 +0545
+Processing by PagesController#home as HTML
+  Rendering pages/home.slim within layouts/application
+  Rendered pages/home.slim within layouts/application (3.5ms)
+Completed 200 OK in 32ms (Views: 30.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-16 22:17:48 +0545
+Processing by PagesController#home as HTML
+  Rendering pages/home.slim within layouts/application
+  Rendered pages/home.slim within layouts/application (4.6ms)
+Completed 200 OK in 62ms (Views: 59.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-16 22:26:23 +0545
+Processing by PagesController#home as HTML
+  Rendering pages/home.slim within layouts/application
+  Rendered pages/home.slim within layouts/application (2.5ms)
+Completed 200 OK in 66ms (Views: 64.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-16 22:36:51 +0545
+Processing by PagesController#home as HTML
+  Rendering pages/home.slim within layouts/application
+  Rendered pages/home.slim within layouts/application (4.9ms)
+Completed 500 Internal Server Error in 46ms
+
+
+  
+ActionView::Template::Error (File to import not found or unreadable: bootstrap-sprockets.
+Load paths:
+  /home/jenish/dev/styleguide/app/assets/config
+  /home/jenish/dev/styleguide/app/assets/images
+  /home/jenish/dev/styleguide/app/assets/javascripts
+  /home/jenish/dev/styleguide/app/assets/stylesheets
+  /home/jenish/.rvm/gems/ruby-2.4.2/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /home/jenish/.rvm/gems/ruby-2.4.2/gems/actioncable-5.1.4/lib/assets/compiled
+  /home/jenish/.rvm/gems/ruby-2.4.2/gems/actionview-5.1.4/lib/assets/compiled
+  /home/jenish/.rvm/gems/ruby-2.4.2/gems/turbolinks-source-5.1.0/lib/assets/javascripts
+  /home/jenish/dev/styleguide/node_modules):
+    4:     <title>ProjectStyle</title>
+    5:     <%= csrf_meta_tags %>
+    6: 
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:   </head>
+   10: 
+  
+app/assets/stylesheets/application.scss:22
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb___2697838214383546072_70039477939020'
+Started GET "/" for 127.0.0.1 at 2018-01-16 22:37:06 +0545
+Processing by PagesController#home as HTML
+  Rendering pages/home.slim within layouts/application
+  Rendered pages/home.slim within layouts/application (5.0ms)
+Completed 500 Internal Server Error in 20ms
+
+
+  
+ActionView::Template::Error (File to import not found or unreadable: bootstrap-sprockets.
+Load paths:
+  /home/jenish/dev/styleguide/app/assets/config
+  /home/jenish/dev/styleguide/app/assets/images
+  /home/jenish/dev/styleguide/app/assets/javascripts
+  /home/jenish/dev/styleguide/app/assets/stylesheets
+  /home/jenish/.rvm/gems/ruby-2.4.2/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /home/jenish/.rvm/gems/ruby-2.4.2/gems/actioncable-5.1.4/lib/assets/compiled
+  /home/jenish/.rvm/gems/ruby-2.4.2/gems/actionview-5.1.4/lib/assets/compiled
+  /home/jenish/.rvm/gems/ruby-2.4.2/gems/turbolinks-source-5.1.0/lib/assets/javascripts
+  /home/jenish/dev/styleguide/node_modules):
+    4:     <title>ProjectStyle</title>
+    5:     <%= csrf_meta_tags %>
+    6: 
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:   </head>
+   10: 
+  
+app/assets/stylesheets/application.scss:22
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb___2697838214383546072_70039490919520'
+Started GET "/" for 127.0.0.1 at 2018-01-16 22:37:17 +0545
+Processing by PagesController#home as HTML
+  Rendering pages/home.slim within layouts/application
+  Rendered pages/home.slim within layouts/application (3.5ms)
+Completed 200 OK in 42ms (Views: 41.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-17 08:07:52 +0545
+Processing by PagesController#home as HTML
+  Rendering pages/home.slim within layouts/application
+  Rendered pages/home.slim within layouts/application (33.1ms)
+Completed 200 OK in 7010ms (Views: 6689.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-17 08:10:43 +0545
+Processing by PagesController#home as HTML
+  Rendering pages/home.slim within layouts/application
+  Rendered pages/home.slim within layouts/application (21.9ms)
+Completed 200 OK in 4995ms (Views: 4825.9ms)
+
+
