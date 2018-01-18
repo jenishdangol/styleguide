@@ -1,0 +1,52 @@
+//font
+$base-font: 'Open Sans', sans-serif;
+$heading-font: 'Roboto', sans-serif;
+
+// Font Sizes
+$base-font-size: 1rem;
+
+//color
+$primary-color: #00A8E8;
+$secondary-color: #edf0f2;
+$hover-color: #55baed;
+$active-color: #017ea7;
+
+$heading-color: #242424;
+$text-color: #72797d;
+
+$brand-color: #f63800;
+$primary-btn-hover-bg: #ff862f;
+$white: #ffffff;
+$base-border-color: #e9edf1;
+$base-border: 1px solid $base-border-color;
+$link-color: #3A539B;
+
+$font-light: 300;
+$font-normal: 500;
+$font-bold: 600;
+$font-black: 900;
+
+//space variables
+$space-default: 16px;
+$space-xs: $space-default / 4;
+$space-s: $space-default / 2;
+$space-ms: $space-default - 4;
+$space-m: $space-default;
+$space-xm: $space-default + 8;
+$space-l: $space-default * 2;
+$space-xl: $space-l * 2;
+
+$space-inset-default: $space-default $space-default $space-default $space-default;
+$space-inset-xs: $space-xs $space-xs $space-xs $space-xs;
+$space-inset-s: $space-s $space-s $space-s $space-s;
+$space-inset-m: $space-m $space-m $space-m $space-m;
+$space-inset-l: $space-l $space-l $space-l $space-l;
+$space-inset-xl: $space-xl $space-xl $space-xl $space-xl;
+
+$space-stack-default: 0 0 $space-default 0;
+$space-stack-xs: 0 0 $space-xs 0;
+$space-stack-s: 0 0 $space-s 0;
+$space-stack-m: 0 0 $space-m 0;
+$space-stack-xm: 0 0 $space-xm 0;
+$space-stack-l: 0 0 $space-l 0;
+$space-stack-xl: 0 0 $space-xl 0;

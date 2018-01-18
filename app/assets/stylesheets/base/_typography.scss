@@ -1,0 +1,37 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $heading-font;
+  font-size: $base-font-size;
+  margin: 0 0 $space-s;
+  font-weight: $font-bold;
+  color: $heading-color
+}
+h1{
+  font-size: 45px;
+}
+h2{
+  font-size: 40px;
+}
+
+p {
+  margin: 0 0 $space-s;
+  font-size: 1rem;
+}
+
+a {
+  color: $primary-color;
+  
+  // transition: color $base-duration $base-timing;
+  &:active,
+  &:focus,
+  &:hover {
+    color: $hover-color;
+    text-decoration: none;
+  }
+}
+
+
