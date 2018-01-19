@@ -1434,3 +1434,646 @@ Processing by PagesController#home as HTML
 Completed 200 OK in 2672ms (Views: 2670.9ms)
 
 
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-18 18:13:21 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (1.7ms)
+Completed 200 OK in 2270ms (Views: 2268.8ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-18 21:49:20 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (2.1ms)
+Completed 200 OK in 49ms (Views: 47.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-18 21:49:24 +0545
+Processing by PagesController#home as HTML
+  Rendering pages/home.slim within layouts/application
+  Rendered pages/home.slim within layouts/application (4.1ms)
+Completed 200 OK in 67ms (Views: 66.5ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-18 22:04:48 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (6.3ms)
+Started GET "/" for 127.0.0.1 at 2018-01-18 22:04:49 +0545
+Processing by PagesController#home as HTML
+  Rendering pages/home.slim within layouts/application
+  Rendered pages/home.slim within layouts/application (4.1ms)
+Completed 200 OK in 3522ms (Views: 3519.6ms)
+
+
+Completed 200 OK in 3388ms (Views: 3352.6ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-18 22:11:00 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (2.3ms)
+Completed 200 OK in 2440ms (Views: 2439.0ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-18 22:11:37 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (2.7ms)
+Completed 200 OK in 2337ms (Views: 2336.5ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-18 22:11:52 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (3.1ms)
+Completed 200 OK in 2412ms (Views: 2410.9ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-18 22:12:24 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (2.2ms)
+Completed 200 OK in 42ms (Views: 40.7ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-18 22:13:49 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (4.5ms)
+Completed 200 OK in 2310ms (Views: 2307.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-01-19 07:21:37 +0545
+Processing by PagesController#home as HTML
+  Rendering pages/home.slim within layouts/application
+  Rendered pages/home.slim within layouts/application (45.0ms)
+Completed 200 OK in 5986ms (Views: 4369.7ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 07:22:39 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (2.8ms)
+Completed 200 OK in 70ms (Views: 69.5ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 07:22:50 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (5.8ms)
+Completed 200 OK in 71ms (Views: 68.3ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 07:25:15 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (2.4ms)
+Completed 200 OK in 37ms (Views: 36.1ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 07:25:33 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (2.6ms)
+Completed 200 OK in 39ms (Views: 38.4ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 07:27:04 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (4.0ms)
+Completed 200 OK in 4557ms (Views: 4556.4ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 07:27:43 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (9.1ms)
+Completed 200 OK in 2262ms (Views: 2258.2ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 07:28:45 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (5.9ms)
+Completed 200 OK in 2228ms (Views: 2226.6ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 07:29:12 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (2.9ms)
+Completed 200 OK in 2347ms (Views: 2345.7ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 07:29:24 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (4.5ms)
+Completed 200 OK in 2414ms (Views: 2412.4ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 07:31:11 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (10.8ms)
+Completed 200 OK in 2293ms (Views: 2291.7ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 07:32:26 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (3.4ms)
+Completed 200 OK in 64ms (Views: 62.8ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 07:33:59 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (8.7ms)
+Completed 200 OK in 2325ms (Views: 2323.8ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 07:34:14 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (5.7ms)
+Completed 200 OK in 65ms (Views: 64.3ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 07:35:34 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (8.7ms)
+Completed 200 OK in 2349ms (Views: 2347.7ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 07:37:25 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (6.6ms)
+Completed 200 OK in 65ms (Views: 63.9ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 07:37:38 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (8.6ms)
+Completed 200 OK in 79ms (Views: 78.3ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 07:38:40 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (3.4ms)
+Completed 200 OK in 48ms (Views: 47.1ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 07:41:27 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (3.9ms)
+Completed 200 OK in 46ms (Views: 45.0ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 07:42:28 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (4.7ms)
+Completed 500 Internal Server Error in 80ms
+
+
+  
+ActionView::Template::Error (Invalid CSS after "$primary-color: ": expected expression (e.g. 1px, bold), was "#4d5f7;"):
+    4:     <title>ProjectStyle</title>
+    5:     <%= csrf_meta_tags %>
+    6: 
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:     <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet">
+   10:     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet">
+  
+app/assets/stylesheets/base/_variables.scss:9
+app/assets/stylesheets/base/base.scss:1
+app/assets/stylesheets/application.scss:1
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb___4397488305165484155_70312718466360'
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 07:42:44 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (4.7ms)
+Completed 200 OK in 54ms (Views: 52.7ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 07:42:58 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (8.3ms)
+Completed 200 OK in 64ms (Views: 63.3ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 07:43:26 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (3.8ms)
+Completed 200 OK in 41ms (Views: 40.1ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 07:44:21 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (6.9ms)
+Completed 200 OK in 46ms (Views: 44.8ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 07:45:31 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (7.7ms)
+Completed 200 OK in 45ms (Views: 44.0ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 07:46:57 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (4.7ms)
+Completed 200 OK in 43ms (Views: 41.2ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 08:20:37 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (5.1ms)
+Completed 200 OK in 46ms (Views: 44.9ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 08:20:55 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (4.8ms)
+Completed 200 OK in 49ms (Views: 48.2ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 08:21:08 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (11.7ms)
+Completed 200 OK in 53ms (Views: 51.6ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 08:22:15 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (7.2ms)
+Completed 200 OK in 46ms (Views: 45.2ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 08:25:33 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (5.1ms)
+Completed 200 OK in 46ms (Views: 45.4ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 08:25:57 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (6.2ms)
+Completed 200 OK in 47ms (Views: 46.1ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 08:26:13 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (7.0ms)
+Completed 200 OK in 45ms (Views: 44.3ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 08:26:43 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (6.5ms)
+Completed 200 OK in 43ms (Views: 42.0ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 08:27:50 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (4.6ms)
+Completed 200 OK in 44ms (Views: 43.0ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 08:28:07 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (7.6ms)
+Completed 200 OK in 52ms (Views: 51.5ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 08:28:29 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (7.5ms)
+Completed 200 OK in 45ms (Views: 44.3ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 08:28:43 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (9.7ms)
+Completed 200 OK in 79ms (Views: 77.8ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 08:30:23 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (6.6ms)
+Completed 200 OK in 44ms (Views: 42.5ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 08:30:41 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (5.3ms)
+Completed 200 OK in 43ms (Views: 40.9ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 08:31:18 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (5.5ms)
+Completed 200 OK in 49ms (Views: 48.0ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 08:34:27 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (5.7ms)
+Completed 200 OK in 45ms (Views: 44.1ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 08:34:44 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (5.5ms)
+Completed 200 OK in 49ms (Views: 48.5ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 08:38:39 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (5.3ms)
+Completed 200 OK in 2427ms (Views: 2426.3ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 08:39:44 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (5.3ms)
+Completed 200 OK in 66ms (Views: 64.8ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 08:40:29 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (8.7ms)
+Completed 200 OK in 2309ms (Views: 2308.0ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 08:41:02 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (7.2ms)
+Completed 200 OK in 2326ms (Views: 2324.2ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 08:42:08 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (9.6ms)
+Completed 200 OK in 84ms (Views: 82.9ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 08:44:37 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (25.1ms)
+Completed 500 Internal Server Error in 52ms
+
+
+  
+ActionView::Template::Error (Undefined variable: "$all-buttons".):
+    4:     <title>ProjectStyle</title>
+    5:     <%= csrf_meta_tags %>
+    6: 
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:     <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet">
+   10:     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet">
+  
+app/assets/stylesheets/base/_button.scss:1
+app/assets/stylesheets/base/base.scss:1
+app/assets/stylesheets/application.scss:1
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb___4397488305165484155_70312714746600'
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 09:38:52 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (9.8ms)
+Completed 200 OK in 2276ms (Views: 2275.6ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 09:40:11 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (8.2ms)
+Completed 200 OK in 94ms (Views: 92.7ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 09:45:56 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (27.4ms)
+Completed 200 OK in 2352ms (Views: 2350.3ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 09:46:11 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (5.6ms)
+Completed 200 OK in 2454ms (Views: 2453.3ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 09:46:58 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (28.6ms)
+Completed 200 OK in 2456ms (Views: 2455.6ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 09:47:11 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (9.0ms)
+Completed 200 OK in 2446ms (Views: 2444.7ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 09:47:37 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (40.8ms)
+Completed 200 OK in 80ms (Views: 78.5ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 09:49:48 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (7.7ms)
+Completed 200 OK in 2273ms (Views: 2271.8ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 09:54:33 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (8.2ms)
+Completed 200 OK in 48ms (Views: 46.8ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 09:56:36 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (9.9ms)
+Completed 200 OK in 2320ms (Views: 2319.5ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 09:57:12 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (6.3ms)
+Completed 200 OK in 2280ms (Views: 2278.7ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 09:57:32 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (15.5ms)
+Completed 200 OK in 2271ms (Views: 2269.7ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 10:10:02 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (6.3ms)
+Completed 200 OK in 2436ms (Views: 2434.5ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 21:06:45 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (50.2ms)
+Completed 200 OK in 1429ms (Views: 1175.2ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 21:07:50 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (10.7ms)
+Completed 200 OK in 94ms (Views: 92.7ms)
+
+
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 21:21:59 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (34.8ms)
+Completed 500 Internal Server Error in 858ms
+
+
+  
+ActionView::Template::Error (File to import not found or unreadable: bootstrap.
+Load paths:
+  /home/jenish/dev/styleguide/app/assets/config
+  /home/jenish/dev/styleguide/app/assets/images
+  /home/jenish/dev/styleguide/app/assets/javascripts
+  /home/jenish/dev/styleguide/app/assets/stylesheets
+  /home/jenish/.rvm/gems/ruby-2.4.2/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /home/jenish/.rvm/gems/ruby-2.4.2/gems/jquery-rails-4.3.1/vendor/assets/javascripts
+  /home/jenish/.rvm/gems/ruby-2.4.2/gems/actioncable-5.1.4/lib/assets/compiled
+  /home/jenish/.rvm/gems/ruby-2.4.2/gems/actionview-5.1.4/lib/assets/compiled
+  /home/jenish/.rvm/gems/ruby-2.4.2/gems/turbolinks-source-5.1.0/lib/assets/javascripts
+  /home/jenish/dev/styleguide/node_modules):
+    4:     <title>ProjectStyle</title>
+    5:     <%= csrf_meta_tags %>
+    6: 
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:     <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet">
+   10:     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet">
+  
+app/assets/stylesheets/application.scss:5
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb___3105734521721592104_33750000'
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 21:22:14 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (9.5ms)
+Completed 500 Internal Server Error in 336ms
+
+
+  
+ActionView::Template::Error (couldn't find file 'popper' with type 'application/javascript'
+Checked in these paths: 
+  /home/jenish/dev/styleguide/app/assets/config
+  /home/jenish/dev/styleguide/app/assets/images
+  /home/jenish/dev/styleguide/app/assets/javascripts
+  /home/jenish/dev/styleguide/app/assets/stylesheets
+  /home/jenish/.rvm/gems/ruby-2.4.2/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /home/jenish/.rvm/gems/ruby-2.4.2/gems/jquery-rails-4.3.1/vendor/assets/javascripts
+  /home/jenish/.rvm/gems/ruby-2.4.2/gems/actioncable-5.1.4/lib/assets/compiled
+  /home/jenish/.rvm/gems/ruby-2.4.2/gems/actionview-5.1.4/lib/assets/compiled
+  /home/jenish/.rvm/gems/ruby-2.4.2/gems/turbolinks-source-5.1.0/lib/assets/javascripts
+  /home/jenish/dev/styleguide/node_modules):
+    4:     <title>ProjectStyle</title>
+    5:     <%= csrf_meta_tags %>
+    6: 
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:     <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet">
+   10:     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet">
+  
+app/assets/javascripts/application.js:16
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb___3105734521721592104_69992028639320'
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 21:23:03 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (9.1ms)
+Completed 500 Internal Server Error in 150ms
+
+
+  
+ActionView::Template::Error (File to import not found or unreadable: bootstrap.
+Load paths:
+  /home/jenish/dev/styleguide/app/assets/config
+  /home/jenish/dev/styleguide/app/assets/images
+  /home/jenish/dev/styleguide/app/assets/javascripts
+  /home/jenish/dev/styleguide/app/assets/stylesheets
+  /home/jenish/.rvm/gems/ruby-2.4.2/gems/coffee-rails-4.2.2/lib/assets/javascripts
+  /home/jenish/.rvm/gems/ruby-2.4.2/gems/jquery-rails-4.3.1/vendor/assets/javascripts
+  /home/jenish/.rvm/gems/ruby-2.4.2/gems/actioncable-5.1.4/lib/assets/compiled
+  /home/jenish/.rvm/gems/ruby-2.4.2/gems/actionview-5.1.4/lib/assets/compiled
+  /home/jenish/.rvm/gems/ruby-2.4.2/gems/turbolinks-source-5.1.0/lib/assets/javascripts
+  /home/jenish/dev/styleguide/node_modules):
+    4:     <title>ProjectStyle</title>
+    5:     <%= csrf_meta_tags %>
+    6: 
+    7:     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    8:     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+    9:     <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet">
+   10:     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet">
+  
+app/assets/stylesheets/application.scss:5
+app/views/layouts/application.html.erb:7:in `_app_views_layouts_application_html_erb___3105734521721592104_69992178591920'
+Started GET "/style_guide" for 127.0.0.1 at 2018-01-19 21:23:39 +0545
+Processing by PagesController#style_guide as HTML
+  Rendering pages/style_guide.slim within layouts/application
+  Rendered pages/style_guide.slim within layouts/application (26.8ms)
+Completed 200 OK in 6300ms (Views: 6141.5ms)
+
+
