@@ -1,0 +1,41 @@
+.banner
+  background-image: url('banner.jpeg')
+  background-position: center
+  background-size: cover
+  height: 500px
+  position: relative
+.banner-slogan
+  position: absolute
+  top: 35%
+  left: 7%
+.title-heading 
+  letter-spacing: 0.5px
+  &::after
+    content: ""
+    display: block
+    position: absolute
+    height: 3px
+    width: 30px
+    background: #f85f91
+    margin-top: 20px
+
+.process
+  padding: $space-xl 0
+  &__number
+    font-size: 8rem
+    color: #e5e1ec
+    position: absolute
+    top: -35%
+    left: 28%
+    // text-align: center
+  &__steps
+    position: relative
+    padding: 0 50px
+  &__icon
+    // position: absolute
+    // top: 24%
+    font-size: 3rem
+    color: #f85f91
+.process-flow
+  margin-top: 48px
+
